@@ -1,0 +1,16 @@
+C:\Users\paula\OneDrive\Escritorio\Paula\Software Development\level 3\SODV2101-Rapid Application Development\Assignment1\TIC TAC TOE\TIC TAC TOE\bin\Debug\net8.0-windows\TIC TAC TOE.exe
+C:\Users\paula\OneDrive\Escritorio\Paula\Software Development\level 3\SODV2101-Rapid Application Development\Assignment1\TIC TAC TOE\TIC TAC TOE\bin\Debug\net8.0-windows\TIC TAC TOE.deps.json
+C:\Users\paula\OneDrive\Escritorio\Paula\Software Development\level 3\SODV2101-Rapid Application Development\Assignment1\TIC TAC TOE\TIC TAC TOE\bin\Debug\net8.0-windows\TIC TAC TOE.runtimeconfig.json
+C:\Users\paula\OneDrive\Escritorio\Paula\Software Development\level 3\SODV2101-Rapid Application Development\Assignment1\TIC TAC TOE\TIC TAC TOE\bin\Debug\net8.0-windows\TIC TAC TOE.dll
+C:\Users\paula\OneDrive\Escritorio\Paula\Software Development\level 3\SODV2101-Rapid Application Development\Assignment1\TIC TAC TOE\TIC TAC TOE\bin\Debug\net8.0-windows\TIC TAC TOE.pdb
+C:\Users\paula\OneDrive\Escritorio\Paula\Software Development\level 3\SODV2101-Rapid Application Development\Assignment1\TIC TAC TOE\TIC TAC TOE\obj\Debug\net8.0-windows\TIC_TAC_TOE.Form1.resources
+C:\Users\paula\OneDrive\Escritorio\Paula\Software Development\level 3\SODV2101-Rapid Application Development\Assignment1\TIC TAC TOE\TIC TAC TOE\obj\Debug\net8.0-windows\TIC TAC TOE.csproj.GenerateResource.cache
+C:\Users\paula\OneDrive\Escritorio\Paula\Software Development\level 3\SODV2101-Rapid Application Development\Assignment1\TIC TAC TOE\TIC TAC TOE\obj\Debug\net8.0-windows\TIC TAC TOE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\OneDrive\Escritorio\Paula\Software Development\level 3\SODV2101-Rapid Application Development\Assignment1\TIC TAC TOE\TIC TAC TOE\obj\Debug\net8.0-windows\TIC TAC TOE.AssemblyInfoInputs.cache
+C:\Users\paula\OneDrive\Escritorio\Paula\Software Development\level 3\SODV2101-Rapid Application Development\Assignment1\TIC TAC TOE\TIC TAC TOE\obj\Debug\net8.0-windows\TIC TAC TOE.AssemblyInfo.cs
+C:\Users\paula\OneDrive\Escritorio\Paula\Software Development\level 3\SODV2101-Rapid Application Development\Assignment1\TIC TAC TOE\TIC TAC TOE\obj\Debug\net8.0-windows\TIC TAC TOE.csproj.CoreCompileInputs.cache
+C:\Users\paula\OneDrive\Escritorio\Paula\Software Development\level 3\SODV2101-Rapid Application Development\Assignment1\TIC TAC TOE\TIC TAC TOE\obj\Debug\net8.0-windows\TIC TAC TOE.dll
+C:\Users\paula\OneDrive\Escritorio\Paula\Software Development\level 3\SODV2101-Rapid Application Development\Assignment1\TIC TAC TOE\TIC TAC TOE\obj\Debug\net8.0-windows\refint\TIC TAC TOE.dll
+C:\Users\paula\OneDrive\Escritorio\Paula\Software Development\level 3\SODV2101-Rapid Application Development\Assignment1\TIC TAC TOE\TIC TAC TOE\obj\Debug\net8.0-windows\TIC TAC TOE.pdb
+C:\Users\paula\OneDrive\Escritorio\Paula\Software Development\level 3\SODV2101-Rapid Application Development\Assignment1\TIC TAC TOE\TIC TAC TOE\obj\Debug\net8.0-windows\TIC TAC TOE.genruntimeconfig.cache
+C:\Users\paula\OneDrive\Escritorio\Paula\Software Development\level 3\SODV2101-Rapid Application Development\Assignment1\TIC TAC TOE\TIC TAC TOE\obj\Debug\net8.0-windows\ref\TIC TAC TOE.dll
